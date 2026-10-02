@@ -49,9 +49,9 @@ AWS Lambda
      |
      +---- DynamoDB
      |
-     +---- Amazon Bedrock
+     +---- Amazon Bedrock```
 
-Backend
+##Backend
 
 The frontend communicates with the FamilyCart backend through an AWS API Gateway HTTP API.
 
