@@ -49,7 +49,8 @@ AWS Lambda
      |
      +---- DynamoDB
      |
-     +---- Amazon Bedrock```
+     +---- Amazon Bedrock
+```
 
 ##Backend
 
