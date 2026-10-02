@@ -1,0 +1,7 @@
+{
+  "Name": "familycart-s3-oac",
+  "Description": "CloudFront access to FamilyCart S3 bucket",
+  "SigningProtocol": "sigv4",
+  "SigningBehavior": "always",
+  "OriginAccessControlOriginType": "s3"
+}
